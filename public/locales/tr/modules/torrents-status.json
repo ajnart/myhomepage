@@ -55,8 +55,8 @@
     "footer": {
       "error": "Hata",
       "lastUpdated": "Son Güncelleme {{time}} önce ",
-      "ratioGlobal": "Genel Ratio",
-      "ratioWithFilter": "Filtrelenen ratio"
+      "ratioGlobal": "Genel Oran",
+      "ratioWithFilter": "Filtrelenen oran"
     },
     "table": {
       "header": {
@@ -70,7 +70,7 @@
         "progress": "İlerleme",
         "totalUploaded": "Toplam Yüklenen",
         "totalDownloaded": "Toplam İndirilen",
-        "ratio": "Ratio",
+        "ratio": "Oran",
         "seeds": "Tohumlar (Bağlı)",
         "peers": "Eşler (Bağlı)",
         "label": "Etiket",
@@ -110,7 +110,7 @@
         "progress": "İlerleme - %{{progress}}",
         "totalSelectedSize": "Toplam - {{totalSize}}",
         "state": "Durum - {{state}}",
-        "ratio": "Ratio -",
+        "ratio": "Oran -",
         "completed": "Tamamlanan"
       }
     }
