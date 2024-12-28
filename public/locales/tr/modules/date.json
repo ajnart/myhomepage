@@ -21,7 +21,7 @@
         }
       },
       "titleState": {
-        "label": "Saat başlığı",
+        "label": "Saat Başlığı",
         "info": "Özel başlık ve saat dilimi kodu widget'ınızda gösterilebilir.<br/>Ayrıca şehri tek başına gösterebilir, hiçbirini göstermeyebilir,<br/>veya her ikisi de seçildiğinde ancak başlık sağlanmadığında saat dilimini tek başına gösterebilirsiniz.",
         "data": {
           "both": "Başlık ve Saat Dilimi",
