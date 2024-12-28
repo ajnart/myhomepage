@@ -19,21 +19,21 @@
     "label": "Arkaplan"
   },
   "backgroundImageAttachment": {
-    "label": "Arkaplan görsel yerleştirme",
+    "label": "Arka Plan Yerleşimi",
     "options": {
       "fixed": "Sabit - Arka plan aynı konumda kalır (önerilir)",
       "scroll": "Kaydırma - Arka plan farenizle kaydırılır"
     }
   },
   "backgroundImageSize": {
-    "label": "Arkaplan görsel boyutu",
+    "label": "Arkaplan Resmi Boyutu",
     "options": {
       "cover": "Kapak - Fazla alanı kırparak tüm pencereyi kaplamak için görüntüyü mümkün olduğunca küçük ölçeklendirir. (tavsiye edilen)",
       "contain": "Kapsam - Görüntüyü kırpmadan veya genişletmeden, kapsayıcısı içinde mümkün olduğu kadar büyük ölçeklendirir."
     }
   },
   "backgroundImageRepeat": {
-    "label": "Arkaplan görsel yerleştirme",
+    "label": "Arka Plan Yerleşimi",
     "options": {
       "repeat": "Tekrarla - Görsel, arka plan görüntü alanının tamamını kapsayacak şekilde gerektiği kadar tekrarlanır.",
       "no-repeat": "Tekrarsız - Görsel tekrarlanmaz ve tüm alanı doldurmayabilir (önerilir)",
@@ -43,7 +43,7 @@
   },
   "customCSS": {
     "label": "Özel CSS",
-    "description": "Kontrol panelinizi yalnızca deneyimli kullanıcılar için önerilen CSS kullanarak özelleştirin",
+    "description": "CSS kullanarak panelizi özelleştirin, sadece tecrübeli kullanıcılar için tavsiye edilir",
     "placeholder": "Özel CSS en son uygulanacaktır",
     "applying": "CSS uygulanıyor..."
   }
