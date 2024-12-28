@@ -8,7 +8,7 @@
         "label": "Bir uygulama seçin"
       },
       "defaultView": {
-        "label": "Varsayılan görünüm",
+        "label": "Öntanımlı görünüm",
         "data": {
           "workers": "İşçiler",
           "queue": "Kuyruk",
