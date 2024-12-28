@@ -12,7 +12,7 @@
         "avatar": {
             "switchTheme": "Temayı değiştir",
             "preferences": "Kullanıcı Tercihleri",
-            "defaultBoard": "Varsayılan Panel",
+            "defaultBoard": "Öntanımlı Panel",
             "manage": "Yönet",
             "logout": "{{username}} kullanıcısından çıkış yapın",
             "login": "Giriş"
