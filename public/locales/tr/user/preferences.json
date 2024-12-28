@@ -31,7 +31,7 @@
         }
     },
     "searchEngine": {
-        "title": "Arama motoru",
+        "title": "Arama Motoru",
         "custom": "Kişisel",
         "newTab": {
             "label": "Arama sonuçlarını yeni sekmede aç"
