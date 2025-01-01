@@ -7,8 +7,8 @@
     }
   },
   "modal": {
-    "text": "",
-    "label": "",
-    "reportButton": ""
+    "text": "組件意外崩潰，請閱讀文黨並修改錯誤的輸入",
+    "label": "發生錯誤",
+    "reportButton": "回報此錯誤至 Github"
   }
 }
