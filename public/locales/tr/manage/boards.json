@@ -11,7 +11,7 @@
             "view": "Panelleri görüntüle"
         },
         "menu": {
-            "setAsDefault": "Varsayılan panel olarak ayarlayın",
+            "setAsDefault": "Öntanımlı panel olarak ayarlayın",
             "delete": {
                 "label": "Kalıcı olarak sil",
                 "disabled": "Silme devre dışı, çünkü eski Homarr bileşenleri varsayılan yapılandırmanın silinmesine izin vermiyor. Silme işlemi gelecekte mümkün olacaktır."
@@ -32,7 +32,7 @@
         },
         "badges": {
             "fileSystem": "Dosya Sistemi",
-            "default": "Varsayılan"
+            "default": "Öntanımlı"
         }
     },
     "buttons": {
@@ -45,7 +45,7 @@
         },
         "create": {
             "title": "Panel oluştur",
-            "text": "Bir pano oluşturulduktan sonra isim değiştirilemez.",
+            "text": "Bir panel oluşturulduktan sonra isim değiştirilemez.",
             "form": {
                 "name": {
                     "label": "İsim"

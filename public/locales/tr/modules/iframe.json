@@ -37,7 +37,7 @@
     "errors": {
       "noUrl": {
         "title": "Geçersiz URL",
-        "text": "Widget'ınızın yapılandırmasında geçerli bir adres girdiğinizden emin olun"
+        "text": "Aracınızın yapılandırmasında geçerli bir adres girdiğinizden emin olun"
       },
       "browserSupport": "Tarayıcınız iframe'leri desteklemiyor. Lütfen tarayıcınızı güncelleyin."
     }

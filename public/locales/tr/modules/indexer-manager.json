@@ -5,18 +5,18 @@
         "settings": {
             "title": "Dizin oluşturucu yöneticisi statüsü",
             "openIndexerSiteInNewTab": {
-                "label": "Dizin Oluşturucu Sitesini Yeni Sekmede Aç"
+                "label": "İndeksleyici Sitesini Yeni Sekmede Aç"
             }
         }
     },
     "indexersStatus": {
-        "title": "Dizin oluşturucu yöneticisi",
+        "title": "İndeksleyici Yöneticisi",
         "testAllButton": "Tümünü test et"
     },
     "errors": {
         "general": {
-            "title": "Dizin oluşturucu yöneticisi bulunamıyor",
-            "text": "Dizin oluşturucu yöneticinize bağlanırken bir sorun oluştu. Lütfen yapılandırmanızı/entegrasyonlarınızı kontrol edin."
+            "title": "İndeksleyici yöneticisi bulunamıyor",
+            "text": "İndeksleyici yöneticinize bağlanırken bir sorun oluştu. Lütfen yapılandırmanızı/entegrasyonlarınızı kontrol edin."
         }
     }
 }

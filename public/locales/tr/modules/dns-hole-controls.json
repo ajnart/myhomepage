@@ -1,6 +1,6 @@
 {
   "descriptor": {
-    "name": "DNS çözümleyici kontrolleri",
+    "name": "DNS Çözümleyici Kontrolleri",
     "description": "Kontrol panelinizden PiHole veya AdGuard'ı kontrol edin",
     "settings": {
       "title": "DNS çözümleyici kontrol ayarları",
